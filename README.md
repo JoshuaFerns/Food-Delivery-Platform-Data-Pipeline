@@ -115,9 +115,9 @@ Runs **natively inside Snowflake** via `get_active_session()` — no separate cr
 ### Dashboard preview
 
 <!-- Add real screenshots to /screenshots and update paths -->
-![KPI cards](screenshots/kpi-cards.png)
-![Monthly trend](screenshots/monthly-trend.png)
-![Top restaurants](screenshots/top-restaurants.png)
+![KPI cards](<img width="1480" height="767" alt="image" src="https://github.com/user-attachments/assets/bc341251-c5b3-4b4a-8119-228952c3d0ac" />)
+![Monthly trend](<img width="1331" height="610" alt="image" src="https://github.com/user-attachments/assets/49607b53-3bf4-4829-914a-0bf92ec19df3" />)
+![Top restaurants](<img width="1481" height="767" alt="image" src="https://github.com/user-attachments/assets/2707409a-24a6-4cce-942f-ca9dc53db074" />)
 
 ---
 
