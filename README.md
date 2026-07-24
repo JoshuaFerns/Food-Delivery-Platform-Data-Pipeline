@@ -114,10 +114,9 @@ Runs **natively inside Snowflake** via `get_active_session()` — no separate cr
 
 ### Dashboard preview
 
-<!-- Add real screenshots to /screenshots and update paths -->
-![KPI cards](<img width="1480" height="767" alt="image" src="https://github.com/user-attachments/assets/bc341251-c5b3-4b4a-8119-228952c3d0ac" />)
-![Monthly trend](<img width="1331" height="610" alt="image" src="https://github.com/user-attachments/assets/49607b53-3bf4-4829-914a-0bf92ec19df3" />)
-![Top restaurants](<img width="1481" height="767" alt="image" src="https://github.com/user-attachments/assets/2707409a-24a6-4cce-942f-ca9dc53db074" />)
+![KPI cards](<img width="1480" height="767" alt="Screenshot 2026-07-23 101337" src="https://github.com/user-attachments/assets/7fe380e4-06b2-48c2-a000-2cf8479f5f19" />)
+![Monthly trend](<img width="1331" height="610" alt="Screenshot 2026-07-23 101403" src="https://github.com/user-attachments/assets/2565eb78-07c0-435f-bfd2-ac62f7b1b0d7" />)
+![Top restaurants](<img width="1481" height="767" alt="Screenshot 2026-07-23 101440" src="https://github.com/user-attachments/assets/bfdd8ab2-7ca2-41c5-b885-62e6b0dfa5f3" />)
 
 ---
 
